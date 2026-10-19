@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Email_Validation_Rule</fullName>
-    <active>true</active>
-    <errorConditionFormula>NOT( CONTAINS( Supplier_Email__c , &quot;@gmail.com&quot;) )</errorConditionFormula>
-    <errorDisplayField>OwnerId</errorDisplayField>
-    <errorMessage>Email Invalid</errorMessage>
-</ValidationRule>
