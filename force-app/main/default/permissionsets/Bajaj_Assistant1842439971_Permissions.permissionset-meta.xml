@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Allows custom permissions for Agentforce Agent : Bajaj_Assistant&apos;s agent user : bajaj_assistant@00ddm00000rdh5r1519081152.ext.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Bajaj_Assistant1842439971 Permissions</label>
+    <license>Einstein Agent</license>
+</PermissionSet>
